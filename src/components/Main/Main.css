@@ -1,0 +1,32 @@
+.Writing{
+    text-align:left;
+    margin-left: 100px;
+}
+.Imagins{
+    display: flex;
+
+}
+.Main{
+    background-color:#363535;
+    display: flex;
+    height:1000px;
+    width:100%;
+}
+.Lish{
+    color:#bbb;
+}
+h1{
+    color: white;;
+}
+h3{
+    color: white;
+}
+p{
+    color: white;
+}
+.Browser{
+    margin-left: 150px;
+    margin-top: 200px;
+    display: block;
+    justify-content: center;
+    align-items: center;}

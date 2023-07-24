@@ -1,0 +1,21 @@
+.Navbar{
+    padding: 25px 0;
+    text-align: center;
+    background: #d7f2ff;
+    width:100%;
+    top:0;
+    left:0;
+}
+.Navbar_Navigations{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    column-gap: 0px;
+
+}
+
+li{
+    list-style-type: none;
+    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+}
